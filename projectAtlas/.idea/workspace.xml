@@ -11,6 +11,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/backend/models/pessoa.js" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1UI0b3Sufdhrflx6tDB9VlYYkKh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -44,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575028869249</updated>
       <workItem from="1575028870351" duration="548000" />
-      <workItem from="1575029495710" duration="1489000" />
+      <workItem from="1575029495710" duration="2249000" />
     </task>
     <servers />
   </component>
